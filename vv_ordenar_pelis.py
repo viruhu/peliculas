@@ -9,7 +9,7 @@ if len(sys.argv) == 1:
 
 ruta=sys.argv[1]
 
-
+#Calse que no uso por ahora pero sirve de prueba :-)
 class C_ManejoFicheros():
 	x_ruta = ""
 	def imprimir(self):
